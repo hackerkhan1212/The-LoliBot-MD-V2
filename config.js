@@ -6,16 +6,16 @@ import fs from 'fs'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰ 
 global.owner = [
-  ['5492266466080', '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫', true],
-  ['573183650526', '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫', true],
-  ['972529277479', '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫', true],
-  ['972529277406'],
-  ['12264575501'] 
+  ['923229931076', '𝕀𝕥𝕩_𝕀𝕓𝕣𝕒𝕙𝕚𝕞-𝑩𝒐𝒕', true],
+  ['923229931076', '𝕀𝕥𝕩_𝕀𝕓𝕣𝕒𝕙𝕚𝕞-𝑩𝒐𝒕', true],
+  ['923229931076', '𝕀𝕥𝕩_𝕀𝕓𝕣𝕒𝕙𝕚𝕞-𝑩𝒐𝒕', true],
+  ['9232299310766'],
+  ['923229931076'] 
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['50495745934'], 
+global.prems = ['923229931076,923324807634'], 
 
 global.APIs = { // API Prefix.
   
@@ -84,7 +84,7 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = 'toma tu stickers'
-global.author = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.author = '𝕀𝕥𝕩_𝕀𝕓𝕣𝕒𝕙𝕚𝕞-𝑩𝒐𝒕'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -94,22 +94,22 @@ global.author = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
 global.vs = '1.2.27'
 global.version = vs
 
-global.gt = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.gt = '𝕀𝕥𝕩_𝕀𝕓𝕣𝕒𝕙𝕚𝕞-𝑩𝒐𝒕'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/channel/UCPSrzHooOjQMRmUK_2RLcSw'
+global.yt = 'https://wa.me/923229931076?text=_៚ʜᴇʟʟᴏ+𝕚𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞+ʙɪɢ+ғᴀɴ+ᴠʀᴏ+🪄_'
 global.youtube = yt
 
 global.ig = ''
 global.gatadiosig = ig
 
-global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
+global.md = 'https://github.com/login'
 global.gatabot = md
 
-global.nn = 'https://chat.whatsapp.com/Lus9S60MABnH9lF4Wf2T7k'
+global.nn = 'https://wa.me/923229931076?text=_៚ʜᴇʟʟᴏ+𝕚𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞+ʙɪɢ+ғᴀɴ+ᴠʀᴏ+🪄_'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/IJmvzc45SVg1lbErQqysc8'
+global.nnn = 'https://wa.me/923229931076?text=_៚ʜᴇʟʟᴏ+𝕚𝕥𝕩_𝕚𝕓𝕣𝕒𝕙𝕚𝕞+ʙɪɢ+ғᴀɴ+ᴠʀᴏ+🪄_'
 global.nnngrupo = nnn //Grupo 2
 
 global.paypal = 'https://paypal'
@@ -148,12 +148,12 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información⋅.━━━━ ⊰
 
-global.wm = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
-global.igfg = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
-global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
-global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
-global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
-global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
+global.wm = '𝕀𝕥𝕩_𝕀𝕓𝕣𝕒𝕙𝕚𝕞-𝑩𝒐𝒕'
+global.igfg = '𝕀𝕥𝕩_𝕀𝕓𝕣𝕒𝕙𝕚𝕞-𝑩𝒐𝒕'
+global.wait = '*⌛ _Charging..._ ▬▭▭▭▭▭▭*'
+global.waitt = '*⌛ _Charging..._ ▬▬▭▭▭*'
+global.waittt = '*⌛ _Charging..._ ▬▬▬▬▭▭*'
+global.waitttt = '*⌛ _Charging..._ ▬▬▬▬▬▬▭*'
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
